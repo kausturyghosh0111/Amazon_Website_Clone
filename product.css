@@ -55,11 +55,13 @@
     font-weight: 500;
     color: #121212;
 }
+
 .product-detail-body .buttons {
     margin-top: 20px;
     display: flex;
     gap: 2px;
 }
+
 .product-detail-body .buttons .buy-now {
     width: 50%;
     border: none;
